@@ -1,6 +1,6 @@
 # Welcome to your coursework planner
 
-This is how you will plan and manage your coursework at CYF. You will add all your work as issues to your fork of this repository, and then use a [project board](https://github.com/orgs/HackYourFutureBelgium/projects/15/views/1) to manage your work. This is broadly how all technical projects are managed, so you will need lots of practice. Get started today.
+This is how you will plan and manage your coursework at HYF. You will add all your work as issues to your fork of this repository, and then use a [project board](https://github.com/orgs/HackYourFutureBelgium/projects/15/views/1) to manage your work. This is broadly how all technical projects are managed, so you will need lots of practice. Get started today.
 
 ## 1. How to get set up
 
@@ -51,5 +51,6 @@ Each module has a module repo. The coursework for each module is added as issues
 You should use the _same project board_ all the way through the course, and add to it as you go, learn as you go, and adapt your board as you learn.
 
 You can, and should, also add your own tickets to the board. Just remember it's a public board, so don't add anything you don't want to share with your mentors.
+
 
 
